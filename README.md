@@ -1,6 +1,7 @@
 ### Hi there, I'm Ryan Chan! 👋
 
-- I'm currently a student at Cornell University majoring in Electrical and Computer Engineering
+- Recent Cornell University graduate in Electrical and Computer Engineering (Bachelor's and Master's)
+- Currently working at NASA
 - I'm interested in embedded systems and robotics.
 - I enjoy working on personal projects, check out some of them here! 
   - https://ryanchantech.github.io/ 
